@@ -1,0 +1,40 @@
+th,
+td {
+  text-align: left;
+  color: #dff6ff;
+  padding: 10px;
+}
+.skill_table {
+  border-collapse: separate;
+  border-spacing: 10px;
+}
+.star {
+  color: #47b5ff;
+  padding-left: 10%;
+}
+
+.row {
+  display: flex;
+}
+
+/* img {
+  width: 240px;
+} */
+
+body {
+  background-color: #06283d !important;
+}
+
+p,
+th,
+li,
+a:link {
+  color: #dff6ff;
+  padding-left: 10px;
+}
+
+h1,
+h2 {
+  color: #47b5ff;
+  padding-left: 10px;
+}

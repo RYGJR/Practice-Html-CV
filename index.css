@@ -17,10 +17,6 @@ td {
   display: flex;
 }
 
-/* img {
-  width: 240px;
-} */
-
 body {
   background-color: #06283d !important;
 }
@@ -38,3 +34,13 @@ h2 {
   color: #47b5ff;
   padding-left: 10px;
 }
+
+hr {
+  border-top: 5px dashed grey !important;
+  max-width: 3%;
+}
+
+.left {
+  min-width: 250px; /*the desired min-width*/
+}
+

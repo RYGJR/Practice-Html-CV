@@ -8,9 +8,13 @@ td {
   border-collapse: separate;
   border-spacing: 10px;
 }
-.star {
+.star_col_1 {
   color: #47b5ff;
-  padding-left: 10%;
+  padding-left: 12%;
+}
+
+.starCol2 {
+  color: #47b5ff;
 }
 
 .row {

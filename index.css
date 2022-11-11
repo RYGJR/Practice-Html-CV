@@ -41,7 +41,7 @@ h2 {
 
 hr {
   border-top: 5px dashed grey !important;
-  max-width: 3%;
+  width: 30%;
 }
 
 .left {

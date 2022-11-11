@@ -1,7 +1,7 @@
 th,
 td {
   text-align: left;
-  color: #dff6ff;
+  color: black;
   padding: 10px;
 }
 .skill_table {
@@ -9,12 +9,12 @@ td {
   border-spacing: 10px;
 }
 .star_col_1 {
-  color: #47b5ff;
+  color: black;
   padding-left: 12%;
 }
 
 .star_col_2 {
-  color: #47b5ff;
+  color: black;
 }
 
 .row {
@@ -22,29 +22,30 @@ td {
 }
 
 body {
-  background-color: #06283d !important;
+  background-color: white !important;
 }
 
 p,
-th,
 li,
 a:link {
-  color: #dff6ff;
+  color: #2c2c35;
   padding-left: 10px;
 }
 
 h1,
 h2 {
-  color: #47b5ff;
+  color: black;
   padding-left: 10px;
 }
 
 hr {
-  border-top: 5px dashed grey !important;
-  width: 30%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
 }
 
 .left {
   min-width: 250px; /*the desired min-width*/
 }
-
